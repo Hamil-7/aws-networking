@@ -1,0 +1,10 @@
+## How to Exit Vim
+
+Press Escape to return to Normal mode.
+Type :. A : should appear in the bottom-left corner of the Vim window, alongside a flashing cursor.
+To save changes to the current file, type wq (“write quit”). To discard changes, type q! (“force quit”).
+Press Enter.
+
+## Troubleshoot Web Server
+
+curl http://example.com -I
